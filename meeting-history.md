@@ -6,4 +6,5 @@
   * Upstream/OSS Team Projects
   * AKS LTS Release
   * Recording: https://www.youtube.com/live/1_ukekQEzBw?feature=share
+  * [Slides](./slide-decks/)
  
