@@ -8,6 +8,10 @@ The Azure Kubernetes Service (AKS) Community is led by the AKS Product Team and 
 * Roadmap Updates
 * Short technology updates and demos
 * "Ask me anything" sessions
+* KubeCon Pre-Event Days
+    * KubeCon NA 2023 (Coming Soon)
+    * KubeCon EU 2023. https://youtube.com/playlist?list=PLc3Ep462vVYvGA0oarDzGPPX1ojUE5Mff&si=wCfXPVOmzjX0VMke
+    * KubeCon NA 2022. https://youtube.com/playlist?list=PLc3Ep462vVYtrLMmseFa6VS1eA18BMoe-&si=wCd51JXhiTH_jf5I
 
 ### Contact Info
 
