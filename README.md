@@ -19,7 +19,7 @@ The Community connects with customers is 2 ways:
 
     The Community Meetings will be held on the **first Wednesday of each month at 4:00pm GMT.** Join using the links below: 
     * [Click to join live](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBiNTliNjMtY2Q1ZS00N2E0LTllMWQtODZjNDVlOWI2MWZh%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22e04f46e5-a3a7-4692-b577-7b780caaf083%22%7d)
-    * Click [here to add this series to your calendar](./aks-customer-community-mtg-Invite.ics)
+    * Click <a id="raw-url" href="https://1drv.ms/u/s!AqrSbCqu5dePl8NHNuMrREIoohWYaQ?e=PRivfB" data-linktype="external">here to add this series to your calendar</a>
 
 
 ### Contact Info
