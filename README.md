@@ -12,14 +12,17 @@ The Community connects with customers is 2 ways:
     * "Code with me" style live streams
     * Recordings from events (eg - Azure Day from KubeCon events)
 
-2. Monthly Customer Community Meetings (Live). These meetings will be held on Teams and the agenda will look as follows: 
+2. Monthly AKS Roadmap Community Meeting (Live). These monthly meetings will include: 
     * AKS Roadmap Update
     * Special topics and guest speakers
-    * Open "Ask me anything" time with the Product Team
+    * Live Q&A in the YouTube live stream
+    * We will also include a corresponding Q&A in the [Azure Subreddit](https://www.reddit.com/r/AZURE/)
 
-    The Community Meetings will be held on the **first Wednesday of each month at 4:00pm GMT.** Join using the links below: 
-    * [Click to join live](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBiNTliNjMtY2Q1ZS00N2E0LTllMWQtODZjNDVlOWI2MWZh%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22e04f46e5-a3a7-4692-b577-7b780caaf083%22%7d)
-    * Click <a id="raw-url" href="https://1drv.ms/u/s!AqrSbCqu5dePl8NHNuMrREIoohWYaQ?e=PRivfB" target="_blank">here to add this series to your calendar</a>
+    The Community Meetings will be held on the **second Thursday of each month at 8:00am PST or 15:00 GMT.** 
+    
+    Subscribe to the channel to get alerted when we begin. https://www.youtube.com/@theakscommunity  
+    
+    * Click <a id="raw-url" href="https://1drv.ms/u/s!AqrSbCqu5dePl8NIeMHrzw3ltbM8hw?e=fP9Z0t" target="_blank">here to add this series to your calendar</a>
 
 ### Contact Info
 
